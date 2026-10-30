@@ -3,7 +3,16 @@
 Ink-violet glass, lavender text, and a violet glow with electric butterfly-blue
 and orchid highlights. A dark theme inspired by the morpho butterfly.
 
-![Anik theme preview](preview.png)
+![Anik theme desktop with fastfetch and btop](screenshots/desktop.png)
+
+*fastfetch and btop in Ghostty with the Anik theme.*
+
+<details>
+<summary>Wallpaper</summary>
+
+![Anik wallpaper](preview.png)
+
+</details>
 
 ## Install
 
